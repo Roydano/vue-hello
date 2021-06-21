@@ -5,6 +5,7 @@
 var app = new Vue({
     el: '#app',
     data: {
-      messaggio: 'Questo è il mio messaggio'
+      messaggio: 'Anche Homer vuole fare Boolean!!',
+      img:'immagine'
     }
   })

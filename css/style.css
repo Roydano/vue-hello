@@ -1,0 +1,8 @@
+.immagine{
+    background-image: url(../img/Programmatore01.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+}
